@@ -6,3 +6,4 @@ resources:
   - deployment2
   - helmrelease1
   - helmrelease2
+  - helmrelease3
