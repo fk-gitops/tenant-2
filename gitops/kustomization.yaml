@@ -4,4 +4,4 @@ kind: Kustomization
 resources:
   - deployment1
   - helmrelease1
-  - helmrelease1
+  - helmrelease2
