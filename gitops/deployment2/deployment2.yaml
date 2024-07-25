@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: tenant2deployment2
+  name: tenant2deployment3
   namespace: tenant2
   labels:
     app: nginx
