@@ -19,7 +19,7 @@ spec:
       retries: 3
   interval: 5m0s
   releaseName: tenant2helmrelease4
-  targetNamespace: tenant1
+  targetNamespace: tenant2
   timeout: 2m0s
   upgrade:
     remediation:
